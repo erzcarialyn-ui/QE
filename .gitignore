@@ -14,3 +14,11 @@ export_credentials.cfg
 .mono/
 data_*/
 mono_crash.*.json
+Web/PFH.apple-touch-icon.png
+Web/PFH.audio.worklet.js
+Web/PFH.html
+Web/PFH.icon.png
+Web/PFH.js
+Web/PFH.pck
+Web/PFH.png
+Web/PFH.wasm
